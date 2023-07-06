@@ -1,7 +1,7 @@
 ## 🚀Olá! Eu sou Felipe Oliveira;
 Tenho 18 anos, estudo ADS e gosto de estar atualizado sob novas tecnologias
  ##
- <div style="display:flex; align-items:center; justify-content:center;">
+ <div style="display:flex; align-items:center; justify-content:center; width:100%">
   
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeollveira&theme=blue-green">
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeollveira&theme=blue-green">
