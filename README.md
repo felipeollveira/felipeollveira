@@ -1,10 +1,10 @@
 ## 🚀Olá! Eu sou Felipe Oliveira;
 Tenho 18 anos, estudo ADS e gosto de estar atualizado sob novas tecnologias
  ##
- <main style="display:flex;">
-  <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+ <div style="display:flex;">
+  <img src="https://img.shields.io/github/followers/felipeollveira.svg?style=social&label=Follow&maxAge=2592000">
   <img src="https://github-readme-stats.vercel.app/api?username=felipeollveira&theme=blue-green">
- </main>
+ </div>
  
  
  <div>
