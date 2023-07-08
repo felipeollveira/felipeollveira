@@ -1,5 +1,5 @@
 ## Olá! Eu sou Felipe Oliveira;
-Tenho 18 anos, estou iniciando meus estudos com ADS e cursos complementares, desde já gosto de estar atualizado sob novas tecnologias 🚀
+Tenho 18 anos, estou iniciando meus estudos com ADS e cursos complementares; gosto de estar atualizado sob novas tecnologias 🚀
   <br>
   
  <div style="display:flex;">
