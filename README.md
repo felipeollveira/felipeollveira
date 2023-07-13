@@ -1,7 +1,7 @@
 # Olá eu sou Felipe Oliveira 🚀
   <br>
-   <div style="display:flex; background-color: red;">
-   <p>e-mail para contato: felipejesus411@outlook.com</p>
+   <div style="display:flex;">
+   <p>Email para contato:<strong>felipejesus411@outlook.com</strong></p>
   
 
  </div>
