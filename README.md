@@ -1,6 +1,4 @@
-## Olá!{
- # Eu sou Felipe Oliveira 🚀;
-  }
+# Olá ## Eu sou Felipe Oliveira 🚀
 
   <br>
   
