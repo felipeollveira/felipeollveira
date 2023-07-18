@@ -1,10 +1,23 @@
-# Hi, I'm Felipe [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-     🚀 printf("Hello, World !")
-### 🔭 Atualmente sou estudante!
+ ## Hi, I'm Felipe [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ollveira/)](https://www.linkedin.com/in/ollveira/)
 
+###### Estudante de ADS, gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+     function paraquedas(mente) {
+     if (mente === 'aberta'){
+     return true;
+     }throw new Error("mente === aberta // false");
+     } 
+     paraquedas('aberta')
 
+###### A mente é como um paraquedas, só funciona depois de aberta.
+<div style="display:flex;"> 
+     
+    
+
+## [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
  
+
+</div>
  
+
 
