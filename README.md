@@ -9,12 +9,12 @@
      } 
      paraquedas('aberta')
 
-###### A mente é como um paraquedas, só funciona depois de aberta.
+     A mente é como um paraquedas, só funciona depois de aberta.
 <div style="display:flex;"> 
      
     
 
-## [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="23" height="23"/> [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
  
 
 </div>
