@@ -5,7 +5,7 @@
      function paraquedas(mente) {
      if (mente === 'aberta'){
      return true;
-     }throw new Error("mente === aberta // false");
+     }throw new Error("mente === 'aberta' // false");
      } 
      paraquedas('aberta')
 
