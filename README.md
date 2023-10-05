@@ -2,11 +2,10 @@
 
 ###### 🔹Estudante de ADS, gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
 
-     function paraquedas(mente) {
-     if (mente === 'aberta'){
-     return true;
-     }throw new Error("mente === 'aberta' // false");
-     } 
+     paraquedas = (mente) => {
+      if (mente === 'aberta') return true;
+      throw new Error("mente === 'aberta' // false");
+      } 
      paraquedas('aberta')
 
      A mente é como um paraquedas, só funciona depois de aberta 🚀
