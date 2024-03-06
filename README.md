@@ -10,8 +10,7 @@
 
      A mente é como um paraquedas, só funciona depois de aberta 🚀
 
-##### Projetos recentes:
-###### 🔹Cms gerenciamento de publicações de Blog - Kotlin 🔹 Blog e cms para gerenciamento de publicações - Node 🔹 Calculadora de IMC - Flutter/dart 
+##### 
 
      
 <div style="display:flex;"> 
