@@ -1,6 +1,6 @@
  ## Hi, I'm Felipe [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ollveira/)](https://www.linkedin.com/in/ollveira/)
 
-###### 🔹Estudante de ADS, gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
+###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
 
      paraquedas = (mente) => {
       if (mente === 'aberta') return true;
