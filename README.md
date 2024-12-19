@@ -1,6 +1,6 @@
  ## Hi, I'm Felipe [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ollveira/)](https://www.linkedin.com/in/ollveira/)
 
-###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
+###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack por dinheiro, back-end por paixxao
 
     paraquedas = (mente) => {
      if (mente === 'aberta') return true;
@@ -10,9 +10,9 @@
 
    A mente é como um paraquedas, só funciona depois de aberta 🚀
 
-<br>  <br>  <br>
+<br> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeollveira&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,mongodb,nodejs,python,git,kotlin,threejs&perline=6)](https://skillicons.dev)
 
  
 
