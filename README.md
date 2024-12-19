@@ -1,4 +1,4 @@
- ## Hi, I'm Felipe [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ollveira/)](https://www.linkedin.com/in/ollveira/)
+ ## Hi, I'm Felipe 
 
 ###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack por dinheiro, back-end por paixxao
 
