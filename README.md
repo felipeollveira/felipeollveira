@@ -2,25 +2,19 @@
 
 ###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. 
 
-     paraquedas = (mente) => {
-      if (mente === 'aberta') return true;
+    paraquedas = (mente) => {
+     if (mente === 'aberta') return true;
       throw new Error("mente === 'aberta' // false");
       } 
      paraquedas('aberta')
 
-     A mente é como um paraquedas, só funciona depois de aberta 🚀
+   A mente é como um paraquedas, só funciona depois de aberta 🚀
 
-##### 
+<br>  <br>  <br>
 
-     
-<div style="display:flex;"> 
-     
-    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeollveira&layout=compact)
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="23" height="23"/> [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
  
 
-</div>
- 
 
 
