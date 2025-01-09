@@ -1,6 +1,6 @@
  ## Hi, I'm Felipe 
 
-###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack por dinheiro, back-end por paixxao
+###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack para trabalho, back-end por paixxao
 
     paraquedas = (mente) => {
      if (mente === 'aberta') return true;
