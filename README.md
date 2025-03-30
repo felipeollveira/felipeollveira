@@ -12,7 +12,7 @@
 
 <br> 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,mongodb,nodejs,python,git,kotlin,threejs&perline=6)](https://github.com/felipeollveira/)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,mongodb,nodejs,python,git,kotlin,dotnet&perline=6)](https://github.com/felipeollveira/)
 
  
 
