@@ -1,4 +1,4 @@
- ## Hi, I'm Felipe 
+ ## Hi, I'm FELIPE OLIVEIRA, brazilian, 20
 
 ###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack para trabalho, back-end por paixxao
 
