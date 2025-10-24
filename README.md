@@ -1,20 +1,26 @@
- ## Hi, I'm FELIPE OLIVEIRA, brazilian, 20
+<h1>👋 Hey there, I'm <strong>Felipe Oliveira</strong></h1>
 
-###### 🔹 Gosto de estar atualizado sob novas tendências e tecnologias mundiais. Full-stack para trabalho, back-end por paixxao
+<p>
+  Brazilian Developer • 20 y/o • <strong>Full-Stack by work, Back-End by passion</strong> 💻  
+</p>
 
-    paraquedas = (mente) => {
-     if (mente === 'aberta') return true;
-      throw new Error("mente === 'aberta' // false");
-      } 
-     paraquedas('aberta')
+<p>
+  I love exploring <strong>new technologies</strong> and staying tuned to <strong>global trends</strong>.  
+  I believe that curiosity drives innovation — and code is the best way to express it.
+</p>
 
-   A mente é como um paraquedas, só funciona depois de aberta 🚀
+---
 
-<br> 
+### 🧠 Code Philosophy
 
+```js
+const parachute = (mind) => {
+  if (mind === 'open') return true;
+  throw new Error("mind === 'open' // false");
+};
+
+parachute('open');
+
+The mind is like a parachute, it only works after it's open 🚀
+```
 [![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,mongodb,nodejs,python,git,kotlin,dotnet&perline=6)](https://github.com/felipeollveira/)
-
- 
-
-
-
