@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 Code Philosophy
+### Code Philosophy
 
 ```js
 const parachute = (mind) => {
